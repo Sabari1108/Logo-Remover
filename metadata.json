@@ -1,0 +1,5 @@
+{
+  "name": "Logo Remover for Video",
+  "description": "An application to remove logos or objects from a single frame of a video using AI. Upload a video, select an object in the first frame, seamlessly remove it, and then generate a short video from the edited frame.",
+  "requestFramePermissions": []
+}
